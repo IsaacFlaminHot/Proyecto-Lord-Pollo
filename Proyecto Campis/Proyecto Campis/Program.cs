@@ -14,11 +14,19 @@ namespace Proyecto_Campis
 
             Console.WriteLine("Versión Prueba y TEST antes de pasar al form");
 
-            int x = 1, y = 2;
+            int x, y;
+
+            Console.WriteLine("Ingresa un numero");
+            x = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingresa un numero");
+            y = int.Parse(Console.ReadLine());
 
             Console.WriteLine(x + y);
             Console.ReadKey();
             Console.Clear();
+
+            
 
 
         }
