@@ -11,6 +11,7 @@ namespace Proyecto_Campis
         static void Main(string[] args)
         {
             Console.WriteLine("Sistema Lord Pollo.");
+            Console.WriteLine("");
         }
     }
 }
