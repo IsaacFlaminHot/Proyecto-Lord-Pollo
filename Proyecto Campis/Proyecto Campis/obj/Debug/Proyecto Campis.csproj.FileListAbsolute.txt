@@ -1,0 +1,7 @@
+C:\Users\julal\Documents\GitHub\Proyecto-Lord-Pollo\Proyecto Campis\Proyecto Campis\bin\Debug\Proyecto Campis.exe.config
+C:\Users\julal\Documents\GitHub\Proyecto-Lord-Pollo\Proyecto Campis\Proyecto Campis\bin\Debug\Proyecto Campis.exe
+C:\Users\julal\Documents\GitHub\Proyecto-Lord-Pollo\Proyecto Campis\Proyecto Campis\bin\Debug\Proyecto Campis.pdb
+C:\Users\julal\Documents\GitHub\Proyecto-Lord-Pollo\Proyecto Campis\Proyecto Campis\obj\Debug\Proyecto Campis.csproj.AssemblyReference.cache
+C:\Users\julal\Documents\GitHub\Proyecto-Lord-Pollo\Proyecto Campis\Proyecto Campis\obj\Debug\Proyecto Campis.csproj.CoreCompileInputs.cache
+C:\Users\julal\Documents\GitHub\Proyecto-Lord-Pollo\Proyecto Campis\Proyecto Campis\obj\Debug\Proyecto Campis.exe
+C:\Users\julal\Documents\GitHub\Proyecto-Lord-Pollo\Proyecto Campis\Proyecto Campis\obj\Debug\Proyecto Campis.pdb
